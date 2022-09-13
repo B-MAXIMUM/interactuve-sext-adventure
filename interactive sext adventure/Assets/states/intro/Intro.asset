@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Intro
+  m_EditorClassIdentifier: Assembly-CSharp::State
+  storyText: "You are exploring a cave when he falls into an underground laboratory,
+    he sees a monitor that says \u201C subject X has been released, the lab will
+    go on lockdown at 0:00 \u201D. The only way to leave alive is to either contain
+    or kill X. while you explore the lab you need to find access cards to enter spaces
+    and learn about the creature at large.\r\n\n\nYou can move 2 ways and they're
+    is a sign telling witch, one labeled cafeteria and the other being exit which
+    way do you\r\n\r\n1 front desk\r\n2 cafeteria\r\n"
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}
