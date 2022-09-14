@@ -12,5 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: DeathbBySucc
   m_EditorClassIdentifier: Assembly-CSharp::State
-  storyText: 
-  nextStates: []
+  storyText: "1 you go in the container and it automatically shuts the door and it
+    vacuums all the air out and you die of suffocation. try again \r\n1 y\r\n2 n\r\n"
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}

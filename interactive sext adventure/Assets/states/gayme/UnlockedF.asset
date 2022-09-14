@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad40a2738bb89f45836c03cb1631e75, type: 3}
+  m_Name: UnlockedF
+  m_EditorClassIdentifier: 
+  storyText: '2 you grab the key for sector f and head to that gate. As you are going
+    you hear a shriek and see a shadowy figure start to chase you. You run to sector
+    f and see a large circular container that is open. What do you do?
+
+
+
+    1 go
+    in container and hide
+
+    2 juke that bitch and get it in the container
+
+'
+  nextStates: []

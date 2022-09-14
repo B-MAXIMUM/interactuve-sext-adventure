@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ad40a2738bb89f45836c03cb1631e75, type: 3}
+  m_Name: Winner
+  m_EditorClassIdentifier: 
+  storyText: 'you juke the bitch and break its ankles as it falls in the container.
+    The container shuts and starts to vacuum all the air out of it. It dies so now
+    the exit elevator is unlocked yoyu pat yourself on the back and leave.
+
+    
+
+    Good
+    job. Play again?
+
+    1 y
+
+    2 n
+
+'
+  nextStates: []

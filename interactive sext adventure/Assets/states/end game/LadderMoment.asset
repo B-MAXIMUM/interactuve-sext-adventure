@@ -12,5 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: LadderMoment
   m_EditorClassIdentifier: Assembly-CSharp::State
-  storyText: 
-  nextStates: []
+  storyText: '1 you grab the ladder and head to where you fell and use it to exit
+    through the hole as you leave you realize you were followed. X tackles you from
+    the shadows and kills you.
+
+    Retry?
+
+    1y
+
+    2n
+
+'
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}

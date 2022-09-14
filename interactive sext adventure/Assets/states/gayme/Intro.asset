@@ -16,9 +16,9 @@ MonoBehaviour:
     he sees a monitor that says \u201C subject X has been released, the lab will
     go on lockdown at 0:00 \u201D. The only way to leave alive is to either contain
     or kill X. while you explore the lab you need to find access cards to enter spaces
-    and learn about the creature at large.\r\n\n\nYou can move 2 ways and they're
-    is a sign telling witch, one labeled cafeteria and the other being exit which
-    way do you\r\n\r\n1 front desk\r\n2 cafeteria\r\n"
+    and learn about the creature at large.\r\n\nYou can move 2 ways and they're is
+    a sign telling witch, one labeled cafeteria and the other being exit which way
+    do you\r\n\r\n1 front desk\r\n2 cafeteria\r\n"
   nextStates:
   - {fileID: 0}
   - {fileID: 0}
