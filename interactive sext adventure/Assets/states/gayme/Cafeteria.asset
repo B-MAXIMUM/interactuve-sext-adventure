@@ -9,12 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 0ad40a2738bb89f45836c03cb1631e75, type: 3}
   m_Name: Cafeteria
   m_EditorClassIdentifier: Assembly-CSharp::State
   storyText: "2 You head to the cafeteria. You see a ton of \u201Cdecorative skeletons\u201D
     everywhere and some creaking . you look around to see where to go next and you
     see 2 other doors s-f and s-g witch one do you approach\r\n\r\n1 f\r\n2 g\r\n"
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 8b07cfd3da0ad9c4dba52a5983615a9a, type: 2}
+  - {fileID: 11400000, guid: d3d189609e1e05c40920aa5158e57b84, type: 2}

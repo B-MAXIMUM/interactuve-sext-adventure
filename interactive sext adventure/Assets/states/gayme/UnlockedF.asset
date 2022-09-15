@@ -24,4 +24,6 @@ MonoBehaviour:
     2 juke that bitch and get it in the container
 
 '
-  nextStates: []
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}

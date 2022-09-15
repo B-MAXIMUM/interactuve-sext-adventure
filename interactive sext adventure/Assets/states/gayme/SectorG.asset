@@ -9,13 +9,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: 0ad40a2738bb89f45836c03cb1631e75, type: 3}
   m_Name: SectorG
   m_EditorClassIdentifier: Assembly-CSharp::State
-  storyText: "As you approach the door it automatically opens leading through a narrow
-    corridor. As you go through you find a card for sector f and a ladder you can
-    only take one sense you don't have any pockets.\r\n\r\n1 ladder \r\n2 card key
-    f\r\n\r\n"
+  storyText: "2 As you approach the door it automatically opens leading through a
+    narrow corridor. As you go through you find a card for sector f and a ladder
+    you can only take one sense you don't have any pockets.\r\n\r\n1 ladder \r\n2
+    card key f\r\n"
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: a1a0e5175064b2b48b38f9568a14d06b, type: 2}
+  - {fileID: 11400000, guid: cc6d95e5bcd35c04b95b91243bd50a3c, type: 2}

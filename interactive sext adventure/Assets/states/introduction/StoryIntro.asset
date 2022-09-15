@@ -9,9 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
-  m_Name: Intro
-  m_EditorClassIdentifier: Assembly-CSharp::State
+  m_Script: {fileID: 11500000, guid: 0ad40a2738bb89f45836c03cb1631e75, type: 3}
+  m_Name: StoryIntro
+  m_EditorClassIdentifier: 
   storyText: "You are exploring a cave when he falls into an underground laboratory,
     he sees a monitor that says \u201C subject X has been released, the lab will
     go on lockdown at 0:00 \u201D. The only way to leave alive is to either contain
@@ -20,5 +20,5 @@ MonoBehaviour:
     a sign telling witch, one labeled cafeteria and the other being exit which way
     do you\r\n\r\n1 front desk\r\n2 cafeteria\r\n"
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: 6c17a1d0b5dfe9844990f808305d9b3e, type: 2}
+  - {fileID: 11400000, guid: a7e55a0c8fccef7488c65ceca7a886a3, type: 2}

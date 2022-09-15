@@ -10,16 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0ad40a2738bb89f45836c03cb1631e75, type: 3}
-  m_Name: DeathByAmogus
+  m_Name: NextSceneTime
   m_EditorClassIdentifier: 
-  storyText: '1 you go to the front desk and look for an exit until subject x comes
-    from a vent and kills you Want to try again
-
-    1 y
-
-    2 n
+  storyText: 'good job living now go to the nect scene click the button
 
 '
-  nextStates:
-  - {fileID: 11400000, guid: 12d90c2e3a697ab49805383e9d68edf6, type: 2}
-  - {fileID: 0}
+  nextStates: []
