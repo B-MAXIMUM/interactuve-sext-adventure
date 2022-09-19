@@ -10,22 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0ad40a2738bb89f45836c03cb1631e75, type: 3}
-  m_Name: Winner
+  m_Name: DeathBySucc
   m_EditorClassIdentifier: 
-  storyText: 'you juke the bitch and break its ankles as it falls in the container.
-    The container shuts and starts to vacuum all the air out of it. It dies so now
-    the exit elevator is unlocked yoyu pat yourself on the back and leave.
-
-
-
-    Good
-    job. Play again?
-
-    1 y
-
-    2 n
-
-'
+  storyText: "1 you go in the container and it automatically shuts the door and it
+    vacuums all the air out and you die of suffocation.try again \r\n1 y\r\n2 n\r\n"
   nextStates:
   - {fileID: 11400000, guid: 7c6b742f08f219241adcdc1bee4cac62, type: 2}
-  - {fileID: 11400000, guid: 7c6b742f08f219241adcdc1bee4cac62, type: 2}
+  - {fileID: 0}

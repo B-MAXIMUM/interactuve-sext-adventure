@@ -10,19 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0ad40a2738bb89f45836c03cb1631e75, type: 3}
-  m_Name: LadderMoment
+  m_Name: Restarting
   m_EditorClassIdentifier: 
-  storyText: '1 you grab the ladder and head to where you fell and use it to exit
-    through the hole as you leave you realize you were followed. X tackles you from
-    the shadows and kills you.
-
-    Retry?
-
-    1y
-
-    2n
+  storyText: 'now hit the restart button
 
 '
-  nextStates:
-  - {fileID: 11400000, guid: 7c6b742f08f219241adcdc1bee4cac62, type: 2}
-  - {fileID: 0}
+  nextStates: []
