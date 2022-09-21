@@ -20,9 +20,8 @@ MonoBehaviour:
 
     1y
 
-    2n
+    2 quit the game
 
 '
   nextStates:
   - {fileID: 11400000, guid: 7c6b742f08f219241adcdc1bee4cac62, type: 2}
-  - {fileID: 0}

@@ -21,4 +21,4 @@ MonoBehaviour:
     do you\r\n\r\n1 front desk\r\n2 cafeteria\r\n"
   nextStates:
   - {fileID: 11400000, guid: 6c17a1d0b5dfe9844990f808305d9b3e, type: 2}
-  - {fileID: 11400000, guid: a7e55a0c8fccef7488c65ceca7a886a3, type: 2}
+  - {fileID: 11400000, guid: feceb1a35ce845643ac9fd9a3baba908, type: 2}

@@ -18,4 +18,4 @@ MonoBehaviour:
     card key f\r\n"
   nextStates:
   - {fileID: 11400000, guid: a1a0e5175064b2b48b38f9568a14d06b, type: 2}
-  - {fileID: 11400000, guid: cc6d95e5bcd35c04b95b91243bd50a3c, type: 2}
+  - {fileID: 11400000, guid: feceb1a35ce845643ac9fd9a3baba908, type: 2}
